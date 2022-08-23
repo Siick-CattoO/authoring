@@ -1,13 +1,13 @@
 # Github Flavoured Markdown
 
-- [ ] [External Link](external-link)
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
-- [ ] Tables
+- [ ] [External Link](#external-link)
+- [ ] [Internal Link](#internal-link)
+- [ ] [Images](#img)
+- [ ] [Emojis](#emj)
+- [ ] [Tables](#tbl)
 
 
-## External_Link
+## External Link
 Dies ist ein "External Link" zu [GitHub-Help](https://help.github.com/en "GitHub-Help")
 
 
@@ -21,13 +21,13 @@ Hier ist das Image aus dem Bildordner
 
 
 ## Emj
-- [ ] Emoji
+Emoji
 
 :smiley_cat:
 
 
 ## Tbl
-- [ ] Tables
+Tables
 
 | Rick | Morty  |
 | --- | --- |
